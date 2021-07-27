@@ -4,3 +4,4 @@
 
 - Strogonoff de frango
 - Pavê
+- Bolo de chocolate
