@@ -1,4 +1,4 @@
-# Strogonofe de frango :chicken
+# Strogonofe de frango :chicken:
 
 **Negrito**
 _Italico_
