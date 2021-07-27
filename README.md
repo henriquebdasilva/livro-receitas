@@ -5,3 +5,4 @@
 - Strogonoff de frango
 - Pavê
 - Sopa
+- Bolo de chocolate
